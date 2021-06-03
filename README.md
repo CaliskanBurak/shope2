@@ -115,4 +115,4 @@ After heroku finishes building our project, we can simply run:
 heroku open
 ```
 
-This will open up our browser and take us to our newly deployed Heroku project!
+This will open up our browser and take us to our newly deployed Heroku project! 
