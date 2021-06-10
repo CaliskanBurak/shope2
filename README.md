@@ -1,1 +1,1 @@
-# sstripe
+# sstripes
